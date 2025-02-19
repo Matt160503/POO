@@ -6,7 +6,7 @@ public class Venta {
     private int id;
     private List<Producto> productos;
     private double monto;
-    private String archivo_ventas = "Ventas";
+    private String archivo_ventas = "Ventas.csv";
     private List<Integer> cantidad;
 
     //Constructor
